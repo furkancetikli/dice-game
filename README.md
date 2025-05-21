@@ -17,6 +17,10 @@ This is a simple Python command-line game where you can roll one or more dice, a
 
 ```bash
 python dice_game.py
+```
+## For Example
+
+```bash
 Roll the dice? (y/n): y
 How many dice would you like to roll? 3
 (4) (2) (6)
@@ -24,4 +28,4 @@ Roll the dice? (y/n): n
 
 Thanks for playing!
 You rolled the dice 3 times in total.
-
+```
